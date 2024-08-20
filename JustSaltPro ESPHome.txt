@@ -1,4 +1,5 @@
 #  JustSalt
+# Forum: https://forum.hacf.fr/t/electrolyseur-e-pool-technologie-justsalt/24718/240
 substitutions:
   mac_justsalt: "94:DE:B8:A1:1A:AC"
   service_uuid: '09912756-7b32-4629-aeb1-b309d9a338ae'
